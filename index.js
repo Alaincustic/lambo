@@ -8,11 +8,6 @@ const PORT = 3000 || process.env.PORT;
 const allowedOrigins = [
   "https://gyc-japan.life",
   "http://gyc-japan.life",
-  "https://ashokarestro.live",
-  "http://ashokarestro.live",
-  "http://127.0.0.1:5500",
-  "http://dailystories.fun",
-  "https://dailystories.fun",
   // ... Add more if needed
 ];
 
@@ -20,11 +15,6 @@ const allowedOrigins = [
 const allowedReferrers = [
   "https://gyc-japan.life",
   "http://gyc-japan.life",
-  "https://ashokarestro.live",
-  "http://ashokarestro.live",
-  "http://127.0.0.1:5500",
-  "http://dailystories.fun",
-  "https://dailystories.fun",
   // ... Add more if needed
 ];
 
