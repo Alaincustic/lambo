@@ -6,15 +6,15 @@ const PORT = 3000 || process.env.PORT;
 
 // List of allowed frontend origins for CORS
 const allowedOrigins = [
-  "https://gyc-japan.life",
-  "http://gyc-japan.life",
+  "https://indoshama.shop",
+  "http://indoshama.shop",
   // ... Add more if needed
 ];
 
 // List of allowed referrers
 const allowedReferrers = [
-  "https://gyc-japan.life",
-  "http://gyc-japan.life",
+  "https://indoshama.shop",
+  "http://indoshama.shop",
   // ... Add more if needed
 ];
 
